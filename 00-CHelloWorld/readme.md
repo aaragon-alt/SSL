@@ -7,3 +7,11 @@ gcc
 gcc (Rev13, Built by MSYS2 project) 15.2.0
 ## Versión del lenguaje
 C23
+
+## Uso de Make
+
+### Compilación
+make
+
+### Ejecución
+make run
